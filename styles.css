@@ -1,0 +1,21 @@
+img {
+    height: 250px;
+    width:400px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: yellow;
+}
+
+body {
+    background-color: orchid;
+    text-align: center;
+}
+h2 {
+    font-family:'Marck Script', cursive; 
+    color:yellow;
+}
+li{
+    font-family: 'Pangolin', cursive;
+}
